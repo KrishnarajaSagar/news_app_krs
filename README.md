@@ -6,7 +6,8 @@ An app made with the help of Flutter framework which mimics the functionality of
 This app makes use of API from newsapi.org. This website provides News API free of cost for development.
 
 ## Demo
-![screen-record](https://github.com/KrishnarajaSagar/news_app_krs/blob/main/media/news_app_demo.gif)
+
+<img src="https://github.com/KrishnarajaSagar/news_app_krs/blob/main/media/news_app_demo.gif" height="500" />
 
 ## References
 1. https://youtu.be/aaGcER1uUoE
