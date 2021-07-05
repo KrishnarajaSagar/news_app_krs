@@ -1,7 +1,4 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:news_api_app/constants.dart';
-import 'package:news_api_app/helper/data.dart';
 import 'package:news_api_app/helper/news.dart';
 import 'package:news_api_app/models/article_model.dart';
 import 'package:news_api_app/widgets/blog_tile.dart';
@@ -41,7 +38,6 @@ class _CategoryViewState extends State<CategoryView> {
       appBar: AppBar(
         title: Text(
           widget.category,
-          style: kHeaderTextStyle,
         ),
       ),
       body: _loading

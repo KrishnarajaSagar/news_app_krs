@@ -19,12 +19,9 @@ class _ArticleScreenState extends State<ArticleScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("News",
-            style: TextStyle(fontSize: 20, color: Colors.black)),
-        elevation: 0,
-        backgroundColor: Theme.of(context).scaffoldBackgroundColor,
-        centerTitle: true,
-        iconTheme: const IconThemeData(color: Colors.black),
+        title: const Text(
+          "News",
+        ),
       ),
       body: Container(
         child: WebView(
