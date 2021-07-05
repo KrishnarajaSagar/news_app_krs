@@ -1,16 +1,15 @@
 # news_api_app
 
-A new Flutter project.
+## Overview
+An app made with the help of Flutter framework which mimics the functionality of a simple news app.
+<br>
+This app makes use of API from newsapi.org. This website provides News API free of cost for development.
 
-## Getting Started
+## Demo
+<img src="https://s6.gifyu.com/images/news_app_demo.gif" height="500"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
+1. https://youtu.be/aaGcER1uUoE
+2. https://newsapi.org/
+3. https://flutter.dev/docs/cookbook
+4. https://gifyu.com/
